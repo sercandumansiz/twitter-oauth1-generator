@@ -6,7 +6,7 @@ Helps you to generate OAuth1.0a signature for Twitter API.
 
 ### NuGet
 ``` 
-> dotnet add package Twitter.OAuth --version 1.0.1
+dotnet add package Twitter.OAuth --version 1.0.1
 ```
 
 ### Supports
