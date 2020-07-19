@@ -12,7 +12,7 @@ dotnet add package Twitter.OAuth --version 1.0.1
 ### Supports
 .NET Standard 2.1
 
-## Example Usage
+## Usage
 ``` 
 OAuthHeaderGenerator oAuthHeaderGenerator = new OAuthHeaderGenerator(_consumerKey, _consumerSecret, _accessToken, _accessTokenSecret);
 
