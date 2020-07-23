@@ -2,7 +2,7 @@
 
 Helps you to generate OAuth1.0a authentication header value for Twitter API.
 
-
+[![NuGet version](https://badge.fury.io/nu/Twitter.OAuth.svg)](https://badge.fury.io/nu/Twitter.OAuth)
 
 ### NuGet
 ``` 
