@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <PackageId>Twitter.OAuth</PackageId>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Authors>sercandumansiz</Authors>
      <Description>
         This package helps you to generate OAuth1.0a signature for Twitter API.
