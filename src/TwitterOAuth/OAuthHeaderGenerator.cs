@@ -11,7 +11,7 @@ namespace Twitter.OAuth
 
         public OAuthHeaderGenerator(string consumerKey, string consumerSecret, string accessToken, string accessTokenSecret)
         {
-            if (string.IsNullOrEmpty(consumerKey) || string.IsNullOrEmpty(consumerSecret) || string.IsNullOrEmpty(consumerKey) || string.IsNullOrEmpty(consumerKey))
+            if (string.IsNullOrEmpty(consumerKey) || string.IsNullOrEmpty(consumerSecret) || string.IsNullOrEmpty(accessToken) || string.IsNullOrEmpty(accessTokenSecret))
             {
                 throw new ArgumentException();
             }
