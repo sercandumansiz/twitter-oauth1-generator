@@ -3,12 +3,14 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <PackageId>Twitter.OAuth</PackageId>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
     <Authors>sercandumansiz</Authors>
      <Description>
         This package helps you to generate OAuth1.0a signature for Twitter API.
     </Description>
     <PackageTags>Twitter;OAuth1</PackageTags>
+    <RepositoryUrl>https://github.com/sercandumansiz/twitter-oauth1-generator.git</RepositoryUrl> 
+    <RepositoryType>git</RepositoryType> 
   </PropertyGroup>
 
 </Project>
