@@ -6,7 +6,7 @@ Helps you to generate OAuth1.0a authentication header value for Twitter API.
 
 ### NuGet
 ``` 
-dotnet add package Twitter.OAuth --version 1.0.3
+dotnet add package Twitter.OAuth --version 1.0.4
 ```
 
 ### Supports
